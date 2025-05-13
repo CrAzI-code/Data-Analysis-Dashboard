@@ -15,3 +15,5 @@ As Data set used
 6.	Distribution of total casualties by road surface
 7.	Relationship between casualties by area/location by Day/Night
 
+#Dashboard
+<a href="https://github.com/CrAzI-code/Data-Analysis-Dashboard/blob/main/Road%20Accident%20Dashboard.png">Dashboard</a>
